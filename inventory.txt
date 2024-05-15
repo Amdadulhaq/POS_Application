@@ -1,1 +1,50 @@
 Tobacco P123 Tobacco Marlboro 12-25-2025 10.5 6
+Cigarillo C456 Swisher Sweets Cigarillos 11-30-2025 
+Pipe Tobacco D789 Dunhill Pipe Tobacco 09-15-2025 
+Rolling Papers A234 RAW Rolling Papers 08-20-2025 
+Hookah Tobacco K789 Al Fakher Shisha 10-10-2025 
+Cigar T234 Cohiba Behike Cigar 07-05-2025 
+Cigarette Lighter S123 Zippo Lighter 12-01-2025 
+Ashtray N567 Crystal Ashtray 09-25-2025 
+Cigar Cutter M456 Xikar Xi2 Cutter 11-15-2025 
+Tobacco Pipe R789 Peterson System Pipe 08-30-2025
+Cigarette Holder P123 Pearl Cigarette Holder 10-05-2025 
+Cigar Humidor H234 Boveda Humidor Packet 07-15-2025 
+Pipe Tool B789 Czech Pipe Tool 09-10-2025 
+Cigarette Case F456 Leather Cigarette Case 11-20-2025 
+Hookah Hose G789 Silicone Hookah Hose 08-10-2025 
+Cigar Ashtray O123 Cigar Rest Ashtray 10-30-2025 
+Tobacco Jar V234 Glass Tobacco Jar 07-20-2025 
+Pipe Stand D789 3-Pipe Wooden Stand 09-15-2025 
+Cigarette Filter K789 TarGard Filter Tips 10-10-2025 
+Hookah Charcoal T234 CocoNara Coconut Charcoal 07-05-2025 
+Cigar Punch S123 Colibri V-Cut Cigar Cutter 12-01-2025 
+Pipe Cleaner N567 BJ Long Pipe Cleaners 09-25-2025 
+Cigarette Roller M456 Top-O-Matic Cigarette Roller 11-15-2025 
+Hookah Bowl R789 Phunnel Hookah Bowl 08-30-2025 
+Cigar Lighter P123 Vertigo Cyclone Lighter 10-05-2025 
+Tobacco Pouch H234 Leather Tobacco Pouch 07-15-2025 
+Pipe Rack B789 Tobacco Pipe Rack 09-10-2025 
+Cigarette Injector F456 Powermatic II Injector 11-20-2025 
+Hookah Base G789 Glass Hookah Base 08-10-2025 
+Cigar Stand O123 Stainless Steel Cigar Stand 10-30-2025 
+Pipe Filter V234 Dr. Grabow Pipe Filter 07-20-2025 12 
+Cigarette Ashtray D789 Melamine Cigarette Ashtray 09-15-2025 
+Hookah Tong K789 Metal Hookah Tongs 10-10-2025 
+Cigar Case T234 Leather Cigar Case 07-05-2025 
+Tobacco Sifter S123 Tobacco Shredder 12-01-2025 
+Pipe Tamper N567 Czech Pipe Tamper 09-25-2025 
+Cigarette Holder M456 Ebony Cigarette Holder 11-15-2025 
+Hookah Grommet R789 Silicone Hookah Grommet 08-30-2025 
+Cigar Ashtray P123 Marble Cigar Ashtray 10-05-2025 
+Tobacco Tin H234 Vintage Tobacco Tin 07-15-2025 
+Pipe Bag B789 Nylon Pipe Bag 09-10-2025 Shoulder 
+Cigarette Rolling Machine F456 Top-O-Matic Rolling Machine 11-20-2025 
+Hookah Mouthpiece G789 Aluminum Hookah Mouthpiece 08-10-2025 E
+Cigar Cutter O123 Guillotine Cigar Cutter 10-30-2025 
+Tobacco Pouch V234 Canvas Tobacco Pouch 07-20-2025 
+Pipe Cleaner D789 Bristle Pipe Cleaner 09-15-2025 
+Cigarette Holder K789 Gold-Plated Cigarette Holder 10-10-2025 
+Hookah Hose T234 Velvet Hookah Hose 07-05-2025 
+Cigar Cutter S123 Carbon Fiber Cigar Cutter 12-01-2025 
+Tobacco Pipe N567 Meerschaum Tobacco Pipe 09-25-2025 
